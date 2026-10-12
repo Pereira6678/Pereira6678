@@ -65,8 +65,8 @@ A documentação do projeto descreve recursos de autenticação, gerenciamento d
 
 🤝 Vamos nos conectar?
 
-""GitHub" (https://img.shields.io/badge/GitHub-Pereira6678-181717?style=for-the-badge&logo=github)" (https://github.com/Pereira6678)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Amauri%20Pereira-0A66C2?style=for-the-badge&logo=linkedin)" (https://www.linkedin.com/in/amauri-pereira-a5a832201)
+""GitHub" (https://github.com/Pereira6678)
+""LinkedIn" (https://www.linkedin.com/in/amauri-pereira-a5a832201)
 
 ---
 
